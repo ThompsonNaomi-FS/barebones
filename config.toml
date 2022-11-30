@@ -1,0 +1,4 @@
+baseURL = 'http://nthompson-barebones.com/'
+languageCode = 'en-us'
+title = 'WDV463 1.6 Exercise'
+theme = 'ananke'
